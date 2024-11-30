@@ -10,7 +10,7 @@
   
   ## 🛠️ Tecnologias que utilizo:
   - Front-end: HTML, CSS, JavaScript, Bootstrap, Figma.
-  - Back-end: C#, Java, ASP.NET Core, Entity Framework, JSP, SQL.
+  - Back-end: C#, .Net Core, ASP.NET Core, Entity Framework, Java, JSP, SQL.
   - Ferramentas: Power BI, AutoCAD, Excel.
 
   ## 🔄 Atualmente estou focado:
