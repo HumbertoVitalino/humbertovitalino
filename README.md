@@ -12,15 +12,10 @@ Minha visão de futuro é me desenvolver profissionalmente, onde pretendo evolui
 - Ferramentas: Power BI, AutoCAD, Excel.
   
 ## 🔄 Atualmente estou focado:
+- Melhoria continua em Inglês.
 - Desenvolvimento de Software Back-End: Implementação de soluções utilizando C# e ASP.NET Core para atender a demandas de alta performance e escalabilidade.
 - Testes de Software: Criação e execução de testes automatizados e unitários para garantir a qualidade do código, utilizando frameworks como xUnit e FluentAssertions.
 - Arquitetura de Software: Estudo e aplicação de padrões de design (como MVC, Repository Pattern, e Dependency Injection) para projetos estruturados e de fácil manutenção.
-- Persistência de Dados: Uso de Entity Framework Core para gerenciar e otimizar o acesso ao banco de dados, com foco em eficiência e segurança.
-- Integração Contínua e Entrega Contínua (CI/CD): Configuração e manutenção de pipelines em ferramentas como GitHub Actions e Azure DevOps, garantindo entregas contínuas e seguras.
-- Metodologias Ágeis: Experiência com Scrum e Kanban, participando ativamente de sprints, daily meetings e reviews, contribuindo para o desenvolvimento iterativo e colaborativo.
-- Segurança da Aplicação: Implementação de boas práticas de segurança, como criptografia de senhas, validação de entradas e proteção contra ataques comuns (XSS, SQL Injection).
-- Boas Práticas de Código: Adoção de princípios SOLID e Clean Code, visando a legibilidade, manutenibilidade e escalabilidade das aplicações.
-- Documentação Técnica: Produção de documentação clara e objetiva, facilitando a comunicação entre equipes de desenvolvimento e stakeholders.
 
 ## 📈 Estatísticas do GitHub
 
