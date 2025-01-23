@@ -19,7 +19,7 @@ I'm a tech enthusiast and Systems Analysis student at FIAP. Passionate about bac
 
 ## 🔥 Contributions
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=humbertovitalino&theme=highcontrast&hide_border=true&background=000000&fire=FF0000&currStreakLabel=FF0000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=humbertovitalino&theme=highcontrast&hide_border=true&background=000000&fire=FF0000&currStreakLabel=FF0000)
 
 </div>
 
