@@ -17,10 +17,6 @@ I'm a tech enthusiast and Systems Analysis student at FIAP. Passionate about bac
 ![Humberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=humbertovitalino&show_icons=true&theme=tokyonight&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humbertovitalino&layout=compact&bg_color=000000&title_color=FF0000&text_color=FFFFFF)
 
-## 🔥 Contributions
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=humbertovitalino&theme=highcontrast&hide_border=true&background=000000&fire=FF0000&currStreakLabel=FF0000)
-
 </div>
 
 ## 🌐 Connect with me:
